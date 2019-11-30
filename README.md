@@ -8,4 +8,5 @@
 ## Usage
 
 Usage: python telegram_chat_dump.py [TOKEN] [AdminID]
+
 Example: python telegram_chat_dump.py 123456789:AAAAAAAAaaaaaaa 987654321
